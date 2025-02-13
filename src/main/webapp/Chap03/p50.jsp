@@ -9,7 +9,7 @@
 <body>
 <%
 	String bookTitle = "JSP 프로그래밍";
-	String outhor = "최범균";
+	String outhor = "최범균1";
 %>
 <b><%=bookTitle %></b>(<%=outhor %>)입니다.
 </body>
